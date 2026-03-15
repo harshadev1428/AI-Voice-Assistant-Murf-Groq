@@ -53,8 +53,7 @@ venv\Scripts\activate
 then type and run:-
 streamlit run app.py
 
-the file will open like:=
-Local URL: http://localhost:8501
+
 
 
 
